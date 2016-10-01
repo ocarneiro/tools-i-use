@@ -13,6 +13,6 @@ How do I use it:
 
 How to install:
 
-    (download)
+    (download from https://code.google.com/archive/p/key-mon/downloads)
     sudo dpkg -i keymon*.deb
     sudo apt-get -f install
